@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Brandon Ritchie's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Brandon Ritchie
+Student Data Anayst Brigham Young University Idaho
+Python | R | SQL | Power BI
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
