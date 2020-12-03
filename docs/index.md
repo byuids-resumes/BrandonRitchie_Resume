@@ -3,7 +3,7 @@ layout: cv
 title: Brandon Ritchie's Resume
 ---
 # Brandon Ritchie
-Student Data Anayst Brigham Young University Idaho
+Student Data Anayst BYU-Idaho
 Python | R | SQL | Power BI
 
 <div id="webaddress">
@@ -17,16 +17,11 @@ Python | R | SQL | Power BI
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2021`
+__Brigham Young University Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+- 4.0 GPA
+- Thomas E. Ricks Full Tuition Scholarship
 
 ## Related Experience
 
