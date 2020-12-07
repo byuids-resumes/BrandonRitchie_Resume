@@ -4,6 +4,7 @@ title: Brandon Ritchie's Resume
 ---
 # Brandon Ritchie
 Student Data Anayst BYU-Idaho
+
 Python | R | SQL | Power BI | Excel VBA
 
 <div id="webaddress">
@@ -17,6 +18,7 @@ Python | R | SQL | Power BI | Excel VBA
 ## Education
 
 `2019-2021`
+
 __Brigham Young University Idaho__, Rexburg, ID
 
 _Bachelor of Science in Data Science_
@@ -45,7 +47,7 @@ _Minor in Business Finance_
 </ul>
 </ul>
 
-### Internships
+### Internship
 
 `January 2021 - April 2021`
 - Upcoming internship with BYU-Idaho student research group of 5 students. Testing the use of CO2 as a natural pesticide. I will be leading in the collection and analysis of the data.
