@@ -29,15 +29,21 @@ _Minor in Business Finance_
 ## Related Work Experience
 
 `April 2020 - Present`
-
-- _Student Data Analyst_
--- Created Department Power BI Files
--- Performed statistical analysis to test sampling methods and 
+<ul>
+<li>Student Data Analyst</li>
+<ul>
+<li>Created Department Power BI Files</li>
+<li>Performed statistical analysis to test sampling methods and discover trends</li>
+</ul>
+</ul>
 
 `August 2019 - Present`
-
-- _Texas A&M Agrilife Student Worker and Data Analyst_
--- Compiled research data and prepared initial charts for publication
+<ul>
+<li>Texas A&M Agrilife Student Worker and Data Analyst</li>
+<ul>
+<li>Compiled research data and prepared initial charts for publication</li>
+</ul>
+</ul>
 
 ### Internships
 
