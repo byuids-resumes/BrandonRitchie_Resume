@@ -18,6 +18,7 @@ Python | R | SQL | Power BI | Excel VBA
 
 `2019-2021`
 __Brigham Young University Idaho__, Rexburg, ID
+
 _Bachelor of Science in Data Science_
 _Minor in Business Finance_
 
@@ -27,21 +28,27 @@ _Minor in Business Finance_
 
 ## Related Work Experience
 
+`April 2020 - Present`
+
 - _Student Data Analyst_
 -- Created Department Power BI Files
 -- Performed statistical analysis to test sampling methods and 
+
+`August 2019 - Present`
+
 - _Texas A&M Agrilife Student Worker and Data Analyst_
 -- Compiled research data and prepared initial charts for publication
 
 ### Internships
 
-`April 2020 - July 2020`
+`January 2021 - April 2021`
 - Upcoming internship with BYU-Idaho student research group of 5 students. Testing the use of CO2 as a natural pesticide. I will be leading in the collection and analysis of the data.
 
 
 ### Data Science Consulting Team
 
 `April 2020 - July 2020`
+
 __Pinnacle Management Group__, 
 
 - Wrote R cleaning scripts for financial data
