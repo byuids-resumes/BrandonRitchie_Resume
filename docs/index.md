@@ -23,9 +23,8 @@ __Brigham Young University Idaho__, Rexburg, ID
 _Bachelor of Science in Data Science_
 _Minor in Business Finance_
 
-- 4.0 GPA
-- Economics Society; Fall 2019
-- Data Science Society; Winter/Spring 2020
+- 4.0 GPA (37 Cumulative Credits)
+- Thomas E. Ricks Grant
 
 ## Related Work Experience
 
@@ -41,6 +40,7 @@ __Texas A&M Agrilife Student Worker and Data Analyst__
 ### Internship
 
 `January 2021 - April 2021`
+__PS-497R Student Research Group__
 - Upcoming internship with BYU-Idaho student research group of 5 students. 
 - Testing the use of CO2 as a natural pesticide. 
 - Will be leading in the collection and analysis of the data.
