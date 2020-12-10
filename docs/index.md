@@ -4,7 +4,6 @@ title: Brandon Ritchie's Resume
 ---
 # Brandon Ritchie
 Student Data Anayst BYU-Idaho
-
 Python | R | SQL | Power BI | Excel VBA
 
 <div id="webaddress">
