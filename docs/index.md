@@ -30,26 +30,20 @@ _Minor in Business Finance_
 ## Related Work Experience
 
 `April 2020 - Present`
-<ul>
-<li>Student Data Analyst</li>
-<ul>
-<li>Created Department Power BI Files</li>
-<li>Performed statistical analysis to test sampling methods and discover trends</li>
-</ul>
-</ul>
+__Student Data Analyst__
+- Created Department Power BI Files
+- Performed statistical analysis to test sampling methods and discover trends
 
 `August 2019 - Present`
-<ul>
-<li>Texas A&M Agrilife Student Worker and Data Analyst</li>
-<ul>
-<li>Compiled research data and prepared initial charts for publication</li>
-</ul>
-</ul>
+__Texas A&M Agrilife Student Worker and Data Analyst__
+- Compiled research data and prepared initial charts for publication
 
 ### Internship
 
 `January 2021 - April 2021`
-- Upcoming internship with BYU-Idaho student research group of 5 students. Testing the use of CO2 as a natural pesticide. I will be leading in the collection and analysis of the data.
+- Upcoming internship with BYU-Idaho student research group of 5 students. 
+- Testing the use of CO2 as a natural pesticide. 
+- Will be leading in the collection and analysis of the data.
 
 
 ### Data Science Consulting Team
