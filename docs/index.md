@@ -3,10 +3,9 @@ layout: cv
 title: Brandon Ritchie's Resume
 ---
 # Brandon Ritchie
+Student Data Anayst BYU-Idaho
 
-#### Student Data Anayst BYU-Idaho
-
-##### Python | R | SQL | Power BI | Excel VBA
+Python | R | SQL | Power BI | Excel VBA
 
 <div id="webaddress">
 <a href="rit17003@byui.edu">rit17003@byui.edu</a>
