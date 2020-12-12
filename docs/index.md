@@ -56,6 +56,15 @@ __Pinnacle Management Group__,
 - Helped develop early version of company's Power BI dashboard
 - Participated in beginning stages of database development
 
+### Economics Consulting Team
+
+`September 2019 - December 2019`
+
+__Menan Housing Prices Linear Regression__
+
+- Created a linear regression model in R to predict housing prices in the Menan area
+- Presented findings to local Real Estate company
+
 ## Service History
 
 `2017-2019`
