@@ -4,7 +4,6 @@ title: Brandon Ritchie's Resume
 ---
 # Brandon Ritchie
 Student Data Anayst BYU-Idaho
-
 Python | R | SQL | Power BI | Excel VBA
 
 <div id="webaddress">
@@ -24,33 +23,27 @@ __Brigham Young University Idaho__, Rexburg, ID
 _Bachelor of Science in Data Science_
 _Minor in Business Finance_
 
-- 4.0 GPA
-- Economics Society; Fall 2019
-- Data Science Society; Winter/Spring 2020
+- 4.0 GPA (37 Cumulative Credits)
+- Thomas E. Ricks Grant
 
 ## Related Work Experience
 
 `April 2020 - Present`
-<ul>
-<li>Student Data Analyst</li>
-<ul>
-<li>Created Department Power BI Files</li>
-<li>Performed statistical analysis to test sampling methods and discover trends</li>
-</ul>
-</ul>
+__Student Data Analyst__
+- Created Department Power BI Files
+- Performed statistical analysis to test sampling methods and discover trends
 
 `August 2019 - Present`
-<ul>
-<li>Texas A&M Agrilife Student Worker and Data Analyst</li>
-<ul>
-<li>Compiled research data and prepared initial charts for publication</li>
-</ul>
-</ul>
+__Texas A&M Agrilife Student Worker and Data Analyst__
+- Compiled research data and prepared initial charts for publication
 
 ### Internship
 
 `January 2021 - April 2021`
-- Upcoming internship with BYU-Idaho student research group of 5 students. Testing the use of CO2 as a natural pesticide. I will be leading in the collection and analysis of the data.
+__PS-497R Student Research Group__
+- Upcoming internship with BYU-Idaho student research group of 5 students. 
+- Testing the use of CO2 as a natural pesticide. 
+- Will be leading in the collection and analysis of the data.
 
 
 ### Data Science Consulting Team
@@ -62,6 +55,15 @@ __Pinnacle Management Group__,
 - Wrote R cleaning scripts for financial data
 - Helped develop early version of company's Power BI dashboard
 - Participated in beginning stages of database development
+
+### Economics Consulting Team
+
+`September 2019 - December 2019`
+
+__Menan Housing Prices Linear Regression__
+
+- Created a linear regression model in R to predict housing prices in the Menan area
+- Presented findings to local Real Estate company
 
 ## Service History
 
